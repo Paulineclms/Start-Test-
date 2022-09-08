@@ -1,2 +1,7 @@
 Hello, World!
+<<<<<<< HEAD
 Hola, Mundo!
+=======
+Hola, Mundo!
+Hallo Welt!
+>>>>>>> German
